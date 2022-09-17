@@ -11,7 +11,7 @@
 
 ## Project Skeleton
 
-<img src="" width="900"/>
+<img src="https://github.com/mmehel52/diamonddraw/blob/main/2.png" width="900"/>
 
       
 ## Purpose of Project;

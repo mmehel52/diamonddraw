@@ -3,7 +3,7 @@
 
 👨‍💻 In this project I mastered Javascript DOM skills. I used mainly JS-DOM. You can see image of the website below. The objective is to make diamond with star.
 
- [👍click here to see page]()
+ [👍click here to see page](https://mmehel52.github.io/diamonddraw/)
  
 ## Demo
 <img src="https://github.com/mmehel52/diamonddraw/blob/main/1.png" width="900"/>

@@ -15,7 +15,9 @@ const starDiamond = function (x) {
   for (let i = 0; i < x; i++) {
     arr[counter1] = "*";
     arr[counter2] = "*";
-    console.log(arr.join(""));
+    // console.log(arr.join(""));
+    let arrStr1 = arr.join("");
+    str += arrStr1 + "\n";
     arr[counter1] = " ";
     arr[counter2] = " ";
     counter1--;
@@ -27,16 +29,19 @@ const starDiamond = function (x) {
   for (let i = 0; i < x - 1; i++) {
     arr[counter1] = "*";
     arr[counter2] = "*";
-    console.log(arr.join(""));
+    // console.log(arr.join(""));
+    let arrStr2 = arr.join("");
+    str += arrStr2 + "\n";
     arr[counter1] = " ";
     arr[counter2] = " ";
     counter1++;
     counter2--;
   }
+  return str;
 };
 
-// starDiamond(6);
+// starDiamond(8);
 
 draw.addEventListener("click", () => {
-  starDiamond(input.value);
+  document.getElementById("result").innerHTML = starDiamond(input.value);
 });

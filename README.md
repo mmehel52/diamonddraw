@@ -6,7 +6,7 @@
  [👍click here to see page]()
  
 ## Demo
-<img src="" width="900"/>
+<img src="https://github.com/mmehel52/diamonddraw/blob/main/1.png" width="900"/>
 
 
 ## Project Skeleton
@@ -15,8 +15,7 @@
 
       
 ## Purpose of Project;
-👨‍💻 The main aim of this project is to improve my HTML/JS/Bootstrap-5/git commands (push, pull, commit, add etc.) skills and responsive design abilities.
-
+👨‍💻 The purpose of this coding challenge is to draw an empty diamond figure (only the outline) into textarea field, using star character (*). Take the number of rows from user and draw the diamond figure accordingly. Add event listener to the input field and call the function when the user enters or changes the value.
 ## Objective
  🎯
 ### The project cover;
@@ -35,7 +34,7 @@
 ##  How to Use the Project
 * First download a code editor
 
-* You can use this tutorial : []()
+* You can use this tutorial : [W3 SCHOOL](https://www.w3schools.com/html/html_images.asp)
 
 ## Author
 👤 Mustafa MEHEL
